@@ -1,7 +1,7 @@
 Waf: Entering directory `/home/kunhyung/2025_Network/ns-allinone-3.29/ns-3.29/build'
 Waf: Leaving directory `/home/kunhyung/2025_Network/ns-allinone-3.29/ns-3.29/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (2.872s)
+'build' finished successfully (2.971s)
 Packet Loss: 8
 Packet Retrans: 8
 Receive Retrans Packet: 8
