@@ -1,0 +1,234 @@
+Waf: Entering directory `/home/kunhyung/2025_Network/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/kunhyung/2025_Network/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.841s)
+Packet Loss: 8
+Packet Retrans: 8
+Receive Retrans Packet: 8
+Packet Loss: 274
+Packet Retrans: 274
+Receive Retrans Packet: 274
+Packet Loss: 1546
+Packet Retrans: 1546
+Receive Retrans Packet: 1546
+Packet Loss: 1903
+Packet Retrans: 1903
+Receive Retrans Packet: 1903
+Packet Loss: 2040
+Packet Retrans: 2040
+Receive Retrans Packet: 2040
+Packet Loss: 2212
+Packet Retrans: 2212
+Receive Retrans Packet: 2212
+Packet Loss: 2591
+Packet Retrans: 2591
+Receive Retrans Packet: 2591
+Packet Loss: 2846
+Packet Retrans: 2846
+Receive Retrans Packet: 2846
+Packet Loss: 3024
+Packet Retrans: 3024
+Receive Retrans Packet: 3024
+Packet Loss: 3332
+Packet Retrans: 3332
+Receive Retrans Packet: 3332
+Packet Loss: 3499
+Packet Retrans: 3499
+Receive Retrans Packet: 3499
+Packet Loss: 3634
+Packet Retrans: 3634
+Receive Retrans Packet: 3634
+Packet Loss: 3781
+Packet Retrans: 3781
+Receive Retrans Packet: 3781
+Packet Loss: 4095
+Packet Retrans: 4095
+Receive Retrans Packet: 4095
+Packet Loss: 4487
+Packet Retrans: 4487
+Receive Retrans Packet: 4487
+Packet Loss: 4835
+Packet Retrans: 4835
+Receive Retrans Packet: 4835
+Packet Loss: 4908
+Packet Retrans: 4908
+Receive Retrans Packet: 4908
+Packet Loss: 4980
+Packet Retrans: 4980
+Receive Retrans Packet: 4980
+Packet Loss: 5143
+Packet Retrans: 5143
+Receive Retrans Packet: 5143
+Packet Loss: 5267
+Packet Retrans: 5267
+Receive Retrans Packet: 5267
+Packet Loss: 5640
+Packet Retrans: 5640
+Receive Retrans Packet: 5640
+Packet Loss: 5701
+Packet Retrans: 5701
+Receive Retrans Packet: 5701
+Packet Loss: 5923
+Packet Retrans: 5923
+Receive Retrans Packet: 5923
+Packet Loss: 6731
+Packet Retrans: 6731
+Receive Retrans Packet: 6731
+Packet Loss: 6964
+Packet Retrans: 6964
+Receive Retrans Packet: 6964
+Packet Loss: 7029
+Packet Retrans: 7029
+Receive Retrans Packet: 7029
+Packet Loss: 7339
+Packet Retrans: 7339
+Receive Retrans Packet: 7339
+Packet Loss: 7368
+Packet Retrans: 7368
+Receive Retrans Packet: 7368
+Packet Loss: 7389
+Packet Retrans: 7389
+Receive Retrans Packet: 7389
+Packet Loss: 7427
+Packet Retrans: 7427
+Packet Loss: 7435
+Packet Retrans: 7435
+Receive Retrans Packet: 7427
+Receive Retrans Packet: 7435
+Packet Loss: 7833
+Packet Retrans: 7833
+Receive Retrans Packet: 7833
+Packet Loss: 8347
+Packet Retrans: 8347
+Receive Retrans Packet: 8347
+Packet Loss: 8437
+Packet Retrans: 8437
+Receive Retrans Packet: 8437
+Packet Loss: 9036
+Packet Retrans: 9036
+Receive Retrans Packet: 9036
+Packet Loss: 9211
+Packet Retrans: 9211
+Receive Retrans Packet: 9211
+Packet Loss: 9512
+Packet Retrans: 9512
+Receive Retrans Packet: 9512
+Packet Loss: 9763
+Packet Retrans: 9763
+Receive Retrans Packet: 9763
+Packet Loss: 10544
+Packet Retrans: 10544
+Receive Retrans Packet: 10544
+Packet Loss: 10605
+Packet Retrans: 10605
+Receive Retrans Packet: 10605
+Packet Loss: 10621
+Packet Retrans: 10621
+Receive Retrans Packet: 10621
+Packet Loss: 11711
+Packet Retrans: 11711
+Receive Retrans Packet: 11711
+Packet Loss: 11813
+Packet Retrans: 11813
+Receive Retrans Packet: 11813
+Packet Loss: 11822
+Packet Retrans: 11822
+Receive Retrans Packet: 11822
+Packet Loss: 12077
+Packet Retrans: 12077
+Receive Retrans Packet: 12077
+Packet Loss: 12140
+Packet Retrans: 12140
+Receive Retrans Packet: 12140
+Packet Loss: 12250
+Packet Retrans: 12250
+Receive Retrans Packet: 12250
+Packet Loss: 12267
+Packet Retrans: 12267
+Receive Retrans Packet: 12267
+Packet Loss: 12511
+Packet Retrans: 12511
+Receive Retrans Packet: 12511
+Packet Loss: 12681
+Packet Retrans: 12681
+Receive Retrans Packet: 12681
+Packet Loss: 13546
+Packet Retrans: 13546
+Receive Retrans Packet: 13546
+Packet Loss: 13652
+Packet Retrans: 13652
+Receive Retrans Packet: 13652
+Packet Loss: 13962
+Packet Retrans: 13962
+Receive Retrans Packet: 13962
+Packet Loss: 14700
+Packet Retrans: 14700
+Receive Retrans Packet: 14700
+Packet Loss: 15354
+Packet Retrans: 15354
+Receive Retrans Packet: 15354
+Packet Loss: 15601
+Packet Retrans: 15601
+Receive Retrans Packet: 15601
+Packet Loss: 16716
+Packet Retrans: 16716
+Receive Retrans Packet: 16716
+Packet Loss: 16880
+Packet Retrans: 16880
+Receive Retrans Packet: 16880
+Packet Loss: 16964
+Packet Retrans: 16964
+Receive Retrans Packet: 16964
+Packet Loss: 17657
+Packet Retrans: 17657
+Receive Retrans Packet: 17657
+Packet Loss: 17669
+Packet Retrans: 17669
+Receive Retrans Packet: 17669
+Packet Loss: 17792
+Packet Retrans: 17792
+Receive Retrans Packet: 17792
+Packet Loss: 17809
+Packet Retrans: 17809
+Receive Retrans Packet: 17809
+Packet Loss: 18122
+Packet Retrans: 18122
+Receive Retrans Packet: 18122
+Packet Loss: 18685
+Packet Retrans: 18685
+Receive Retrans Packet: 18685
+Packet Loss: 19063
+Packet Retrans: 19063
+Receive Retrans Packet: 19063
+Packet Loss: 19257
+Packet Retrans: 19257
+Receive Retrans Packet: 19257
+Packet Loss: 19272
+Packet Retrans: 19272
+Receive Retrans Packet: 19272
+Packet Loss: 19283
+Packet Retrans: 19283
+Receive Retrans Packet: 19283
+Packet Loss: 19305
+Packet Retrans: 19305
+Receive Retrans Packet: 19305
+Packet Loss: 19573
+Packet Retrans: 19573
+Receive Retrans Packet: 19573
+Packet Loss: 20597
+Packet Retrans: 20597
+Receive Retrans Packet: 20597
+Packet Loss: 20688
+Packet Retrans: 20688
+Receive Retrans Packet: 20688
+Packet Loss: 20896
+Packet Retrans: 20896
+Receive Retrans Packet: 20896
+Packet Loss: 20958
+Packet Retrans: 20958
+Receive Retrans Packet: 20958
+Packet Loss: 21230
+Packet Retrans: 21230
+Receive Retrans Packet: 21230
+Packet Drop Rate: 0.34%
+Retransmission Success Rate: 100.00%
